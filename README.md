@@ -11,7 +11,7 @@
 
 - 💡 I'm **Kumail Ahmad**, a passionate and self-driven **software developer** from **Srinagar, Kashmir**
 - 🔨 I build full-stack web apps using **React**, **Next.js**, **MongoDB**, and **Clerk**
-- 📚 Currently pursuing **Computer Science** at university and constantly improving my dev skills
+- 📚 Currently pursuing **Computer Science**  and constantly improving my dev skills
 - 🧠 Love solving real-world problems and exploring **AI**, **authentication**, and clean UI design
 - 🔐 Interested in **cybersecurity**, user privacy, and building secure, scalable software
 - 🎯 Always looking to grow — I treat every challenge as an opportunity to level up
