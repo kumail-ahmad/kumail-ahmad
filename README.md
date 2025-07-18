@@ -1,24 +1,32 @@
-<h2> Hey there! I'm Kumail. <img src="https://private-user-images.githubusercontent.com/74038190/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTA5NTg0MTcsIm5iZiI6MTc1MDk1ODExNywicGF0aCI6Ii83NDAzODE5MC8yNjQxNDE2ODMtOGFhOTlmNmMtMjY3ZC00OTc3LTljZDMtMWE0YzExNjc1ODYzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjI2VDE3MTUxN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTZlMWJhZDYyNGI2Y2VjMTZhZTFlOTY5MzQzOWU1ZDFlMTU5MGI5N2Y0ZmMxN2JmNmE1OWU0YmEyYTg0ZGQyMDcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.eRYdl9IRhbmWwfyT2ewtFvt4wpN2YnCg9dcolhocO04" width="25"></h2>
-<img align="right" alt="GIF" src="https://private-user-images.githubusercontent.com/74038190/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTA5NTg0MTcsIm5iZiI6MTc1MDk1ODExNywicGF0aCI6Ii83NDAzODE5MC8yNjQxNDE2ODMtOGFhOTlmNmMtMjY3ZC00OTc3LTljZDMtMWE0YzExNjc1ODYzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjI2VDE3MTUxN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTZlMWJhZDYyNGI2Y2VjMTZhZTFlOTY5MzQzOWU1ZDFlMTU5MGI5N2Y0ZmMxN2JmNmE1OWU0YmEyYTg0ZGQyMDcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.eRYdl9IRhbmWwfyT2ewtFvt4wpN2YnCg9dcolhocO04" width="500"/>
+<h2> Hey there! I'm Kumail. 
 <br>
-<h3 align="center">Visitor Count</h3>
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/kumail-ahmad/count.svg" />  
-</p>
-<h3> 👨🏻‍💻 About Me </h3>
 
 
-- 💡 I'm **Kumail Ahmad**, a passionate and self-driven **software developer** from **Srinagar, Kashmir**
-- 🔨 I build full-stack web apps using **React**, **Next.js**, **MongoDB**, and **Clerk**
-- 📚 Currently pursuing **Computer Science**  and constantly improving my dev skills
-- 🧠 Love solving real-world problems and exploring **AI**, **authentication**, and clean UI design
-- 🔐 Interested in **cybersecurity**, user privacy, and building secure, scalable software
-- 🎯 Always looking to grow — I treat every challenge as an opportunity to level up
-- 🎨  I enjoy designing minimal UIs, and learning new frontend trends
-- ☕ Caffeine + Code = Peak Productivity ✨
+<div align="center"></div>
 
-### 🛠 Tech Stack
+![snake gif](https://github.com/kumail-ahmad/kumail-ahmad/blob/output/github-snake.svg)
+
+<h3> 👨🏻‍💻 Who am I? </h3>
+
+```javascript
+const kumail = {
+    code: ["JavaScript", "TypeScript", "Python", "C"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Next.js"],
+            css: ["Tailwind", "Bootstrap"]
+        },
+        backEnd: {
+            js: ["Node", "Express"],
+            databases: ["MongoDB", "PostgreSQL"]
+        },
+        devOps: ["Vercel", "Netlify", "Docker"],
+        tools: ["Git", "Linux", "Figma"]
+    }
+};
+````
+
+### 🛠 Used Tech Stack
 
 #### 💻 Frontend
 <p>
@@ -50,12 +58,22 @@
 </p>
 
 <br>
+<h3> 📊 GitHub Stats </h3>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=kumail-ahmad&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="kumail's Github Stats">
+<p align="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kumail-ahmad&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="kumail's Github Stats"></br>
+  
 
-</br>
+</p>
+<p align="center">
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kumail-ahmad&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/kumail-ahmad/)/>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kumail-ahmad&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/kumail-ahmad/)
+
+
+
+
 
 
 <h3> 🤝🏻 Connect with Me </h3>
